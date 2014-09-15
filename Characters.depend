@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1410531985 source:d:\programs\characters\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"coordonnees.h"
+
+1410788660 source:d:\programs\characters\coordonnees.c
+
+1410788378 d:\programs\characters\coordonnees.h
+
