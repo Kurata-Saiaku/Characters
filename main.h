@@ -5,8 +5,8 @@
 
 #endif // MAIN_H_INCLUDED
 
-typedef struct Personne Personne;
-struct Personne
+
+typedef struct Personne
 {
     char nom[100];
     char prenom[100];
@@ -14,4 +14,4 @@ struct Personne
 
     int age;
     int sexe; // Booléen : 1 = garçon, 0 = fille
-};
+}Personne;
